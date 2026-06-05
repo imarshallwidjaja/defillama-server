@@ -2032,7 +2032,7 @@ const parentProtocols: IParentProtocol[] = [
     treasury: "sudoswap.js",
     github: ["sudoswap"],
   },
-  /*{ // unified under new RamsesX parent#ramses-exchange-hl
+  /*{
     id: "parent#ramses-exchange",
     name: "Ramses Exchange",
     url: "https://app.ramses.exchange/",
@@ -2066,8 +2066,8 @@ const parentProtocols: IParentProtocol[] = [
     description:
       "Polarise Protocol aims to be the innovative, multi-chain, multi-form crypto asset financial infrastructure platform",
     logo: `${baseIconsUrl}/polarise.jpg`,
-    gecko_id: null,
-    cmcId: null,
+    gecko_id: "ramses-exchange",
+    cmcId: "23858",
     chains: [],
     twitter: "Polariseorg",
     governanceID: ["snapshot:pawnfiprotocol.eth"],
@@ -8551,7 +8551,7 @@ const parentProtocols: IParentProtocol[] = [
       "RamsesX is a ve(3,3) liquidity layer and exchange with legacy and concentrated liquidity deployments across Arbitrum, Polygon, and HyperEVM.",
     logo: `${baseIconsUrl}/ramsesx.png`,
     gecko_id: "ramses",
-    cmcId: "23858",
+    cmcId: null,
     chains: [],
     twitter: "RamsesExchange",
     github: ["RamsesExchange"],

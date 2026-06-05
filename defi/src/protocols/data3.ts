@@ -8805,6 +8805,7 @@ const data3_0: Protocol[] = [
     forkedFromIds: ["2198", "1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1686345425,
+    disabled: "Consolidated under Ramses CL",
     dimensions: {
       fees: "ramses-exchange-v2",
       dexs: "ramses-exchange-v2"

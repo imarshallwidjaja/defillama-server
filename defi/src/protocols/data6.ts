@@ -723,6 +723,7 @@ const data6: Protocol[] = [
     audit_links: ["https://docs.ramses.xyz/pages/audits"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1776881424,
+    disabled: "Consolidated under Ramses CL",
     dimensions: {
       fees: "ramsesx-poly-cl",
       dexs: "ramsesx-poly-cl",
@@ -748,6 +749,7 @@ const data6: Protocol[] = [
     forkedFromIds: ["2198", "1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1776881440,
+    disabled: "Consolidated under Ramses Legacy",
     dimensions: {
       fees: "ramsesx-poly-legacy",
       dexs: "ramsesx-poly-legacy",
@@ -774,6 +776,7 @@ const data6: Protocol[] = [
     audit_links: ["https://docs.ramses.xyz/pages/audits"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1776881448,
+    disabled: "Consolidated under Ramses CL",
     dimensions: {
       fees: "ramsesx-arb-cl",
       dexs: "ramsesx-arb-cl",
@@ -799,6 +802,7 @@ const data6: Protocol[] = [
     forkedFromIds: ["2198", "1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1776881454,
+    disabled: "Consolidated under Ramses Legacy",
     dimensions: {
       fees: "ramsesx-arb-legacy",
       dexs: "ramsesx-arb-legacy",
