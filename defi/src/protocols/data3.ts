@@ -8788,27 +8788,27 @@ const data3_0: Protocol[] = [
   {
     id: "3096",
     name: "Ramses CL",
-    address: "arbitrum:0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+    address: "hyperliquid:0x555570a286F15EbDFE42B66eDE2f724Aa1AB5555",
     symbol: "RAM",
-    url: "https://app.ramses.exchange/dashboard",
+    url: "https://ramses.xyz",
     description:
-      "Ramses is a next-generation AMM designed to serve as Arbitrum's central liquidity hub, combining the secure and battle-tested superiority of Uniswap v3 with a custom incentive engine, vote-lock governance model, and streamlined user experience",
-    chain: "Arbitrum",
+      "Ramses CL is the concentrated liquidity product in the RamsesX ecosystem, aggregating CL liquidity across Arbitrum, HyperEVM, and Polygon.",
+    chain: "Hyperliquid L1",
     logo: `${baseIconsUrl}/ramses-v2.jpg`,
-    audits: "0",
+    audits: "2",
     gecko_id: null,
     cmcId: null,
     tags: ["AMM"],
-    chains: ["Arbitrum"],
+    chains: ["Arbitrum", "Polygon", "Hyperliquid L1"],
     module: "ramses-cl/index.js",
     twitter: "RamsesExchange",
     forkedFromIds: ["2198", "1407"],
+    audit_links: ["https://docs.ramses.xyz/pages/audits"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1686345425,
-    disabled: "Consolidated under Ramses CL",
     dimensions: {
       fees: "ramses-exchange-v2",
-      dexs: "ramses-exchange-v2"
+      dexs: "ramses-hl-cl"
     }
   },
   {

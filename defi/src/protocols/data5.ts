@@ -2329,6 +2329,7 @@ const data5: Protocol[] = [
     audit_links: ["https://docs.ramses.xyz/pages/audits"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1763010949,
+    disabled: "Consolidated under Ramses CL",
     dimensions: {
       fees: "ramses-exchange-v2",
       dexs: "ramses-hl-cl",
@@ -2354,6 +2355,7 @@ const data5: Protocol[] = [
     forkedFromIds: ["2198", "1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1763010955,
+    disabled: "Consolidated under Ramses Legacy",
     dimensions: {
       fees: "ramses-exchange-v1",
       dexs: "ramses-hl-legacy",

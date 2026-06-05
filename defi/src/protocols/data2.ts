@@ -28685,27 +28685,26 @@ const data2: Protocol[] = [
   {
     id: "2675",
     name: "Ramses Legacy",
-    address: "arbitrum:0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+    address: "hyperliquid:0x555570a286F15EbDFE42B66eDE2f724Aa1AB5555",
     symbol: "RAM",
-    url: "https://app.ramses.exchange/dashboard",
+    url: "https://ramses.xyz",
     description:
-      "Ramses is a next-generation AMM designed to serve as Arbitrum's central liquidity hub, combining the secure and battle-tested superiority of Uniswap v3 with a custom incentive engine, vote-lock governance model, and streamlined user experience",
-    chain: "Arbitrum",
+      "Ramses Legacy is the ve(3,3) AMM product in the RamsesX ecosystem, aggregating legacy liquidity across Arbitrum, HyperEVM, and Polygon.",
+    chain: "Hyperliquid L1",
     logo: `${baseIconsUrl}/ramses-v1.jpg`,
     audits: "0",
     gecko_id: null,
     cmcId: null,
     tags: ["ve(3,3)"],
-    chains: ["Arbitrum"],
+    chains: ["Arbitrum", "Polygon", "Hyperliquid L1"],
     module: "ramses/index.js",
     twitter: "RamsesExchange",
     forkedFromIds: ["1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1678883899,
-    disabled: "Consolidated under Ramses Legacy",
     dimensions: {
       fees: "ramses-exchange-v1",
-      dexs: "ramses-exchange"
+      dexs: "ramses-hl-legacy"
     }
   },
   /*
