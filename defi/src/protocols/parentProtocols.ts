@@ -8548,7 +8548,7 @@ const parentProtocols: IParentProtocol[] = [
     name: "RamsesX",
     url: "https://www.ramses.xyz/",
     description:
-      "RamsesX is a ve(3,3) liquidity layer and exchange with legacy and concentrated liquidity deployments across Arbitrum, Polygon, and HyperEVM.",
+      "RamsesX is a liquidity-first DEX ecosystem built for better trades, higher rewards, and aligned incentives.",
     logo: `${baseIconsUrl}/ramsesx.png`,
     gecko_id: "ramses",
     cmcId: null,

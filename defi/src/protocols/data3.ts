@@ -8792,7 +8792,7 @@ const data3_0: Protocol[] = [
     symbol: "RAM",
     url: "https://ramses.xyz",
     description:
-      "Ramses CL is the concentrated liquidity product in the RamsesX ecosystem, aggregating CL liquidity across Arbitrum, HyperEVM, and Polygon.",
+      "Ramses CL is the concentrated liquidity side of Ramses, built for deeper liquidity, tighter execution, and active LP strategies.",
     chain: "Hyperliquid L1",
     logo: `${baseIconsUrl}/ramses-v2.jpg`,
     audits: "2",
@@ -8806,6 +8806,7 @@ const data3_0: Protocol[] = [
     audit_links: ["https://docs.ramses.xyz/pages/audits"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1686345425,
+    methodology: "TVL tracks assets supplied to Ramses concentrated liquidity pools, with historical Ramses deployments included for continuity.",
     dimensions: {
       fees: "ramses-exchange-v2",
       dexs: "ramses-hl-cl"

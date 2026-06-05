@@ -28689,7 +28689,7 @@ const data2: Protocol[] = [
     symbol: "RAM",
     url: "https://ramses.xyz",
     description:
-      "Ramses Legacy is the ve(3,3) AMM product in the RamsesX ecosystem, aggregating legacy liquidity across Arbitrum, HyperEVM, and Polygon.",
+      "Ramses Legacy covers the classic Ramses ve(3,3) AMM pools, preserving the original liquidity model within the Ramses ecosystem.",
     chain: "Hyperliquid L1",
     logo: `${baseIconsUrl}/ramses-v1.jpg`,
     audits: "0",
@@ -28702,6 +28702,7 @@ const data2: Protocol[] = [
     forkedFromIds: ["1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1678883899,
+    methodology: "TVL tracks liquidity in Ramses Legacy volatile and stable pools, with historical Ramses deployments included for continuity. HyperEVM RAM/xRAM staking is included where tracked.",
     dimensions: {
       fees: "ramses-exchange-v1",
       dexs: "ramses-hl-legacy"
