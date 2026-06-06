@@ -8796,7 +8796,7 @@ const data3_0: Protocol[] = [
     chain: "Hyperliquid L1",
     logo: `${baseIconsUrl}/ramses-v2.jpg`,
     audits: "2",
-    gecko_id: null,
+    gecko_id: "ramses",
     cmcId: null,
     tags: ["AMM"],
     chains: ["Arbitrum", "Polygon", "Hyperliquid L1"],
