@@ -28702,7 +28702,7 @@ const data2: Protocol[] = [
     forkedFromIds: ["1407"],
     parentProtocol: "parent#ramses-exchange-hl",
     listedAt: 1678883899,
-    methodology: "TVL tracks liquidity in Ramses Legacy volatile and stable pools, with historical Ramses deployments included for continuity. HyperEVM RAM/xRAM staking is included where tracked.",
+    methodology: "TVL tracks liquidity in Ramses Legacy volatile and stable pools, with historical Ramses deployments included for continuity.",
     dimensions: {
       fees: "ramses-exchange-v1",
       dexs: "ramses-hl-legacy"

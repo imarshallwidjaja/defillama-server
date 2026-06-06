@@ -2066,8 +2066,8 @@ const parentProtocols: IParentProtocol[] = [
     description:
       "Polarise Protocol aims to be the innovative, multi-chain, multi-form crypto asset financial infrastructure platform",
     logo: `${baseIconsUrl}/polarise.jpg`,
-    gecko_id: "ramses-exchange",
-    cmcId: "23858",
+    gecko_id: null,
+    cmcId: null,
     chains: [],
     twitter: "Polariseorg",
     governanceID: ["snapshot:pawnfiprotocol.eth"],
