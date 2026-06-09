@@ -8794,7 +8794,7 @@ const data3_0: Protocol[] = [
     description:
       "Ramses CL is the concentrated liquidity side of Ramses, built for deeper liquidity, tighter execution, and active LP strategies.",
     chain: "Hyperliquid L1",
-    logo: `${baseIconsUrl}/ramses-v2.jpg`,
+    logo: `${baseIconsUrl}/ramsesx.png`,
     audits: "2",
     gecko_id: null,
     cmcId: null,

@@ -28691,7 +28691,7 @@ const data2: Protocol[] = [
     description:
       "Ramses Legacy covers the classic Ramses ve(3,3) AMM pools, preserving the original liquidity model within the Ramses ecosystem.",
     chain: "Hyperliquid L1",
-    logo: `${baseIconsUrl}/ramses-v1.jpg`,
+    logo: `${baseIconsUrl}/ramsesx.png`,
     audits: "0",
     gecko_id: null,
     cmcId: null,
